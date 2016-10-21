@@ -1,5 +1,7 @@
 # Infix-Notation-Calculator
 
+Homework #1 for CIS 22C at De Anza College
+
 Implementing the Stack and Queue abstract data types to evaluate simple mathematical expressions in infix notation.
 
 The following lists our assumptions on the mathematical expressions entered by the user:
@@ -9,7 +11,7 @@ The following lists our assumptions on the mathematical expressions entered by t
 3. The only allowable operators are + (for addition), − (for subtraction), ∗ (for multiplication), / (for division), and ˆ (for exponentiation). Negative sign is not allowed.
 4. Division by zero is not allowed.
 5. The exponentiation operator has the highest precedence followed by the multiplication and division operators and finally the addition and subtraction operators.
-6. The exponentiation operator is right-associative while all the other operators are left-associative. 7. Parentheses can appear in the mathematical expression.
+6. The exponentiation operator is right-associative while all the other operators are left-associative. Parentheses can also appear in the mathematical expression.
 8. Parentheses can be nested.
 9. Assume that the parentheses are well-balanced.
 10. Blank spaces can appear in the mathematical expression.
